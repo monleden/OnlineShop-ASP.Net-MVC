@@ -1,0 +1,10 @@
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\bin\Debug\Model.dll.config
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\bin\Debug\Model.dll
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\bin\Debug\Model.pdb
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.dll
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.xml
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\obj\Debug\Model.dll
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\obj\Debug\Model.pdb
+F:\Dai hoc\Web Developer\ASP.NET\OnlineShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
